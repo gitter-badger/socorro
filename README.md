@@ -1,6 +1,8 @@
 Socorro
 -------
 
+[![Join the chat at https://gitter.im/tiansiyuan/socorro](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tiansiyuan/socorro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A server for collecting, processing, and displaying crash reports from
 clients using the [Breakpad libraries](http://code.google.com/p/google-breakpad/)
 
